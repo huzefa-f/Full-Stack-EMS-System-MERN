@@ -10,7 +10,8 @@ A full-stack **Employee Management System (EMS)** built using the **MERN Stack**
 👉 https://full-stack-ems-system-mern-psi.vercel.app
 
 > **Note:** If the application takes a few seconds to load on the first visit, the backend server may be waking up from an idle state.
-> Admin Login Email: huzefafakharems@gnail.com, Password: admin123
+>
+>  Admin Login Email: huzefafakharems@gmail.com, Password: admin123
 
 ---
 
